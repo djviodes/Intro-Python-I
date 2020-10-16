@@ -61,7 +61,7 @@ The suggested order for going through each of the directories is:
 
 X `hello` -- Hello world
 X `bignum` -- Print some big numbers
-* `datatypes` -- Experiment with type conversion
+X `datatypes` -- Experiment with type conversion
 * `modules` -- Learn to import from modules
 * `printing` -- Formatted print output
 * `lists` -- Python's version of arrays
