@@ -64,7 +64,7 @@ X `bignum` -- Print some big numbers
 X `datatypes` -- Experiment with type conversion
 X `modules` -- Learn to import from modules
 X `printing` -- Formatted print output
-* `lists` -- Python's version of arrays
+X `lists` -- Python's version of arrays
 * `tuples` -- Immutable lists typically for heterogenous data
 * `slices` -- Accessing parts of lists
 * `comprehensions` -- List comprehensions
