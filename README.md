@@ -69,12 +69,12 @@ The suggested order for going through each of the directories is:
 [X] `slices` -- Accessing parts of lists
 [X] `comprehensions` -- List comprehensions
 [X] `dictionaries` -- Dictionaries
-[] `functions` -- Functions
-[] `args` -- Arguments and Keyword Arguments
-[] `scopes` -- Global, Local, and Non-Local scope
-[] `file_io` -- Read and write from files
-[] `cal` -- Experiment with module imports and implement a text-based calendar
-[] `classes` -- Classes and objects
+[X] `functions` -- Functions
+[X] `args` -- Arguments and Keyword Arguments
+[X] `scopes` -- Global, Local, and Non-Local scope
+[X] `file_io` -- Read and write from files
+[X] `cal` -- Experiment with module imports and implement a text-based calendar
+[X] `classes` -- Classes and objects
 
 ## Stretch Goals
 
